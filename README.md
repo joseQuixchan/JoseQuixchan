@@ -7,6 +7,5 @@ Analista y programador, motivado y orientado a los resultados,
 Sólido conjunto de habilidades organizativas y de comunicación orientada y combina como Ciberseguridad
 Habilidades: SQL Server, Postgres, C# .NET CORE Entity Framework, creación de servicios API REST, Frontend, HTML, CSS, Javascript, Typescript, Git
 -->
-Analista y programador, motivado y orientado a los resultados, 
-Sólido conjunto de habilidades organizativas y de comunicación orientada y combina como Ciberseguridad
+Analista y programador, motivado y orientado a los resultados, Sólido conjunto de habilidades organizativas y de comunicación orientada y combina como Ciberseguridad
 Habilidades: SQL Server, Postgres, C# .NET CORE Entity Framework, creación de servicios API REST, Frontend, HTML, CSS, Javascript, Typescript, Git
